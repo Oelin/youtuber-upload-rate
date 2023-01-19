@@ -1,3 +1,3 @@
-# Next Upload?
+# NUD
 
 Analysing YouTuber video upload rates and predicting next upload dates.
