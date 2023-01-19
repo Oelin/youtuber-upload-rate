@@ -1,2 +1,3 @@
-# youtuber-upload-rate
+# Next Upload?
+
 Analysing YouTuber video upload rates and predicting next upload dates.
